@@ -1,0 +1,311 @@
+{
+  "version": 1,
+  "updated": "2026-07-03",
+  "fuentes": [
+    "Superfinanciera (datos.gov.co)",
+    "Banco de la República (SDMX)",
+    "banks-seed.json"
+  ],
+  "list": [
+    {
+      "entidad": "Usura · consumo y ordinario",
+      "producto": "Tope legal (1,5 × IBC)",
+      "tipo": "referencia",
+      "rate": 28.79
+    },
+    {
+      "entidad": "Interés bancario corriente (IBC)",
+      "producto": "Consumo y ordinario",
+      "tipo": "referencia",
+      "rate": 19.19
+    },
+    {
+      "entidad": "Banco de la República",
+      "producto": "Tasa de intervención (política)",
+      "tipo": "referencia",
+      "rate": 12
+    },
+    {
+      "entidad": "DTF",
+      "producto": "CDT 90 días (promedio sistema)",
+      "tipo": "referencia",
+      "rate": 9.9
+    },
+    {
+      "entidad": "La Hipotecaria",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.72
+    },
+    {
+      "entidad": "Banco Pichincha S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.47
+    },
+    {
+      "entidad": "Bancamía S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.41
+    },
+    {
+      "entidad": "Banco de Occidente",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.1
+    },
+    {
+      "entidad": "Mibanco S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.03
+    },
+    {
+      "entidad": "Banco Santander",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13
+    },
+    {
+      "entidad": "Tuya",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.98
+    },
+    {
+      "entidad": "Crezcamos",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.9
+    },
+    {
+      "entidad": "\"KOA CF\"",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.74
+    },
+    {
+      "entidad": "Finandina Bic o Banco Finandina Bic o Finandina.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.36
+    },
+    {
+      "entidad": "Coltefinanciera",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.34
+    },
+    {
+      "entidad": "Bancamía S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.32
+    },
+    {
+      "entidad": "Banco AV Villas",
+      "producto": "Bolsillo de ahorro",
+      "tipo": "ahorro",
+      "rate": 12
+    },
+    {
+      "entidad": "Pibank",
+      "producto": "Cuenta Parqueadero / Ahorro",
+      "tipo": "ahorro",
+      "rate": 11
+    },
+    {
+      "entidad": "Ualá",
+      "producto": "Cuenta remunerada",
+      "tipo": "ahorro",
+      "rate": 11
+    },
+    {
+      "entidad": "Dale!",
+      "producto": "Alcancía digital",
+      "tipo": "ahorro",
+      "rate": 10.5
+    },
+    {
+      "entidad": "Banco Finandina",
+      "producto": "FlexiDigital",
+      "tipo": "ahorro",
+      "rate": 10
+    },
+    {
+      "entidad": "Lulo Bank",
+      "producto": "Lulo Pro / Bolsillo",
+      "tipo": "ahorro",
+      "rate": 10
+    },
+    {
+      "entidad": "Ban100",
+      "producto": "Ahorro 100pre",
+      "tipo": "ahorro",
+      "rate": 10
+    },
+    {
+      "entidad": "Bancolombia",
+      "producto": "Bolsillo / Ahorro a la Mano",
+      "tipo": "ahorro",
+      "rate": 9.75
+    },
+    {
+      "entidad": "Financiera Juriscoop",
+      "producto": "Ahorro remunerada",
+      "tipo": "ahorro",
+      "rate": 9.6
+    },
+    {
+      "entidad": "BBVA",
+      "producto": "Ahorro remunerado / Fijo",
+      "tipo": "ahorro",
+      "rate": 9.5
+    },
+    {
+      "entidad": "Nu",
+      "producto": "Cajitas de ahorro",
+      "tipo": "ahorro",
+      "rate": 9.25
+    },
+    {
+      "entidad": "RappiPay",
+      "producto": "RappiCuenta / bolsillo",
+      "tipo": "ahorro",
+      "rate": 9
+    },
+    {
+      "entidad": "Banco Popular",
+      "producto": "Bolsillo de ahorro",
+      "tipo": "ahorro",
+      "rate": 9
+    },
+    {
+      "entidad": "Banco de Occidente",
+      "producto": "Bolsillo remunerado",
+      "tipo": "ahorro",
+      "rate": 9
+    },
+    {
+      "entidad": "Banco Caja Social",
+      "producto": "Ahorro remunerada",
+      "tipo": "ahorro",
+      "rate": 9
+    },
+    {
+      "entidad": "Banco Falabella",
+      "producto": "Cuenta / bolsillo",
+      "tipo": "ahorro",
+      "rate": 8.5
+    },
+    {
+      "entidad": "Daviplata",
+      "producto": "Bolsillo / ahorro",
+      "tipo": "ahorro",
+      "rate": 8.25
+    },
+    {
+      "entidad": "Davivienda",
+      "producto": "Bolsillo remunerado",
+      "tipo": "ahorro",
+      "rate": 8
+    },
+    {
+      "entidad": "Itaú",
+      "producto": "Ahorro remunerada",
+      "tipo": "ahorro",
+      "rate": 8
+    },
+    {
+      "entidad": "Banco Unión",
+      "producto": "Ahorro remunerada",
+      "tipo": "ahorro",
+      "rate": 8
+    },
+    {
+      "entidad": "Davivienda",
+      "producto": "Libre inversión",
+      "tipo": "credito",
+      "rate": 29.38
+    },
+    {
+      "entidad": "Banco Unión / Coltefinanciera",
+      "producto": "Tarjeta / Consumo (más alta)",
+      "tipo": "credito",
+      "rate": 28.77
+    },
+    {
+      "entidad": "Itaú",
+      "producto": "Tarjeta / Consumo",
+      "tipo": "credito",
+      "rate": 23.74
+    },
+    {
+      "entidad": "Bancolombia",
+      "producto": "Libre inversión",
+      "tipo": "credito",
+      "rate": 23.14
+    },
+    {
+      "entidad": "Davivienda",
+      "producto": "Vehículo con prenda",
+      "tipo": "credito",
+      "rate": 19.5
+    },
+    {
+      "entidad": "BBVA",
+      "producto": "Libre inversión (desde)",
+      "tipo": "credito",
+      "rate": 19.2
+    },
+    {
+      "entidad": "Bancolombia",
+      "producto": "Vehículo",
+      "tipo": "credito",
+      "rate": 18.5
+    },
+    {
+      "entidad": "Coopcentral",
+      "producto": "Tarjeta / Consumo (más baja)",
+      "tipo": "credito",
+      "rate": 18.37
+    },
+    {
+      "entidad": "Banco de Occidente",
+      "producto": "Vehículo",
+      "tipo": "credito",
+      "rate": 17.2
+    },
+    {
+      "entidad": "BBVA",
+      "producto": "Vehículo (desde)",
+      "tipo": "credito",
+      "rate": 14.34
+    },
+    {
+      "entidad": "Bancolombia",
+      "producto": "Hipotecario en pesos (VIS/No VIS)",
+      "tipo": "credito",
+      "rate": 14
+    },
+    {
+      "entidad": "Davivienda",
+      "producto": "Hipotecario No VIS (pesos)",
+      "tipo": "credito",
+      "rate": 13.95
+    },
+    {
+      "entidad": "Sector (promedio)",
+      "producto": "Hipotecario en pesos",
+      "tipo": "credito",
+      "rate": 13.47
+    },
+    {
+      "entidad": "BBVA",
+      "producto": "Hipotecario No VIS (desde)",
+      "tipo": "credito",
+      "rate": 11.91
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "Tasas de OFERTA por banco (E.A. %). Editar a mano cuando cambien; el robot las mezcla con las oficiales (usura/IBC/BanRep/DTF) que baja de las APIs. tipo: ahorro | cdt | credito.",
+  "ahorro": [
+    { "entidad": "Banco AV Villas", "producto": "Bolsillo de ahorro", "rate": 12 },
+    { "entidad": "Pibank", "producto": "Cuenta Parqueadero / Ahorro", "rate": 11 },
+    { "entidad": "Ualá", "producto": "Cuenta remunerada", "rate": 11 },
+    { "entidad": "Dale!", "producto": "Alcancía digital", "rate": 10.5 },
+    { "entidad": "Banco Finandina", "producto": "FlexiDigital", "rate": 10 },
+    { "entidad": "Lulo Bank", "producto": "Lulo Pro / Bolsillo", "rate": 10 },
+    { "entidad": "Ban100", "producto": "Ahorro 100pre", "rate": 10 },
+    { "entidad": "Bancolombia", "producto": "Bolsillo / Ahorro a la Mano", "rate": 9.75 },
+    { "entidad": "Financiera Juriscoop", "producto": "Ahorro remunerada", "rate": 9.6 },
+    { "entidad": "BBVA", "producto": "Ahorro remunerado / Fijo", "rate": 9.5 },
+    { "entidad": "Nu", "producto": "Cajitas de ahorro", "rate": 9.25 },
+    { "entidad": "RappiPay", "producto": "RappiCuenta / bolsillo", "rate": 9 },
+    { "entidad": "Banco Popular", "producto": "Bolsillo de ahorro", "rate": 9 },
+    { "entidad": "Banco de Occidente", "producto": "Bolsillo remunerado", "rate": 9 },
+    { "entidad": "Banco Caja Social", "producto": "Ahorro remunerada", "rate": 9 },
+    { "entidad": "Banco Falabella", "producto": "Cuenta / bolsillo", "rate": 8.5 },
+    { "entidad": "Daviplata", "producto": "Bolsillo / ahorro", "rate": 8.25 },
+    { "entidad": "Davivienda", "producto": "Bolsillo remunerado", "rate": 8 },
+    { "entidad": "Itaú", "producto": "Ahorro remunerada", "rate": 8 },
+    { "entidad": "Banco Unión", "producto": "Ahorro remunerada", "rate": 8 }
+  ],
+  "cdt": [
+    { "entidad": "Corficolombiana", "producto": "CDT 360 días", "rate": 14.25 },
+    { "entidad": "Banco de Occidente", "producto": "CDT 360 días", "rate": 13.45 },
+    { "entidad": "Mibanco", "producto": "CDT 360 días", "rate": 13.42 },
+    { "entidad": "BBVA", "producto": "CDT 360 días", "rate": 13.31 },
+    { "entidad": "Credifamilia", "producto": "CDT 180 días", "rate": 12.6 },
+    { "entidad": "Banco Pichincha", "producto": "CDT 90–180 días", "rate": 11.9 },
+    { "entidad": "KOA", "producto": "CDT 180 días", "rate": 11.55 },
+    { "entidad": "Bancolombia", "producto": "CDT 360 días", "rate": 11.51 },
+    { "entidad": "Banco de Bogotá", "producto": "CDT 180 días", "rate": 10 },
+    { "entidad": "GNB Sudameris", "producto": "CDT 180 días", "rate": 10 }
+  ],
+  "credito": [
+    { "entidad": "Davivienda", "producto": "Libre inversión", "rate": 29.38 },
+    { "entidad": "Banco Unión / Coltefinanciera", "producto": "Tarjeta / Consumo (más alta)", "rate": 28.77 },
+    { "entidad": "Itaú", "producto": "Tarjeta / Consumo", "rate": 23.74 },
+    { "entidad": "Bancolombia", "producto": "Libre inversión", "rate": 23.14 },
+    { "entidad": "Davivienda", "producto": "Vehículo con prenda", "rate": 19.5 },
+    { "entidad": "BBVA", "producto": "Libre inversión (desde)", "rate": 19.2 },
+    { "entidad": "Bancolombia", "producto": "Vehículo", "rate": 18.5 },
+    { "entidad": "Coopcentral", "producto": "Tarjeta / Consumo (más baja)", "rate": 18.37 },
+    { "entidad": "Banco de Occidente", "producto": "Vehículo", "rate": 17.2 },
+    { "entidad": "BBVA", "producto": "Vehículo (desde)", "rate": 14.34 },
+    { "entidad": "Bancolombia", "producto": "Hipotecario en pesos (VIS/No VIS)", "rate": 14 },
+    { "entidad": "Davivienda", "producto": "Hipotecario No VIS (pesos)", "rate": 13.95 },
+    { "entidad": "Sector (promedio)", "producto": "Hipotecario en pesos", "rate": 13.47 },
+    { "entidad": "BBVA", "producto": "Hipotecario No VIS (desde)", "rate": 11.91 }
+  ]
+}
