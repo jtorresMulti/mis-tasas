@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-07-06",
+  "version": 3,
+  "updated": "2026-07-09",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -33,25 +33,79 @@
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
       "rate": 9.94,
-      "prev": 9.9
+      "prev": 9.94
     },
     {
-      "entidad": "Itaú; Banco Itaú.",
+      "entidad": "Crezcamos",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 11.92
+      "rate": 13.63
     },
     {
-      "entidad": "Cotrafa",
+      "entidad": "La Hipotecaria",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 10.91
+      "rate": 13.6
     },
     {
-      "entidad": "Cotrafa",
+      "entidad": "Banco Pichincha S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.43
+    },
+    {
+      "entidad": "\"KOA CF\"",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.31
+    },
+    {
+      "entidad": "Banco Santander",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.13
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.09
+    },
+    {
+      "entidad": "Mibanco S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.08
+    },
+    {
+      "entidad": "Banco Credifinanciera S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.95
+    },
+    {
+      "entidad": "La Hipotecaria",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 8.7
+      "rate": 12.8
+    },
+    {
+      "entidad": "\"KOA CF\"",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.64
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.3
+    },
+    {
+      "entidad": "Bancamía S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.23
     },
     {
       "entidad": "Banco AV Villas",
