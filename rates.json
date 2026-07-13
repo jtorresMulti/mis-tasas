@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated": "2026-07-09",
+  "version": 4,
+  "updated": "2026-07-13",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -32,80 +32,32 @@
       "entidad": "DTF",
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
-      "rate": 9.94,
+      "rate": 10.16,
       "prev": 9.94
     },
     {
-      "entidad": "Crezcamos",
+      "entidad": "Cooperativa Financiera JFK",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.63
+      "rate": 9.82
     },
     {
-      "entidad": "La Hipotecaria",
+      "entidad": "Cooperativa Financiera de Antioquia",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.6
+      "rate": 9.6
     },
     {
-      "entidad": "Banco Pichincha S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.43
-    },
-    {
-      "entidad": "\"KOA CF\"",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.31
-    },
-    {
-      "entidad": "Banco Santander",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.13
-    },
-    {
-      "entidad": "BANCO CONTACTAR S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.09
-    },
-    {
-      "entidad": "Mibanco S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.08
-    },
-    {
-      "entidad": "Banco Credifinanciera S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.95
-    },
-    {
-      "entidad": "La Hipotecaria",
+      "entidad": "Cooperativa Financiera JFK",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.8
+      "rate": 9.18
     },
     {
-      "entidad": "\"KOA CF\"",
+      "entidad": "Cooperativa Financiera de Antioquia",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.64
-    },
-    {
-      "entidad": "BANCO CONTACTAR S.A.",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.3
-    },
-    {
-      "entidad": "Bancamía S.A.",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.23
+      "rate": 8.48
     },
     {
       "entidad": "Banco AV Villas",
