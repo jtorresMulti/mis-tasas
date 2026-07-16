@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updated": "2026-07-13",
+  "version": 5,
+  "updated": "2026-07-16",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -33,31 +33,79 @@
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
       "rate": 10.16,
-      "prev": 9.94
+      "prev": 10.16
     },
     {
-      "entidad": "Cooperativa Financiera JFK",
+      "entidad": "La Hipotecaria",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 9.82
+      "rate": 13.6
     },
     {
-      "entidad": "Cooperativa Financiera de Antioquia",
+      "entidad": "\"KOA CF\"",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 9.6
+      "rate": 13.5
     },
     {
-      "entidad": "Cooperativa Financiera JFK",
-      "producto": "CDT 180 días",
+      "entidad": "Banco Pichincha S.A.",
+      "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 9.18
+      "rate": 13.39
     },
     {
-      "entidad": "Cooperativa Financiera de Antioquia",
+      "entidad": "Crezcamos",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.99
+    },
+    {
+      "entidad": "IRIS CF.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.96
+    },
+    {
+      "entidad": "Banco de Occidente",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.96
+    },
+    {
+      "entidad": "Banco de Bogotá S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.83
+    },
+    {
+      "entidad": "Coltefinanciera",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.72
+    },
+    {
+      "entidad": "\"KOA CF\"",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 8.48
+      "rate": 12.67
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.12
+    },
+    {
+      "entidad": "Crezcamos",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 11.77
+    },
+    {
+      "entidad": "Banco Pichincha S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 11.73
     },
     {
       "entidad": "Banco AV Villas",
