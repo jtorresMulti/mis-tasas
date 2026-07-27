@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated": "2026-07-23",
+  "version": 8,
+  "updated": "2026-07-27",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -32,7 +32,7 @@
       "entidad": "DTF",
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
-      "rate": 10.18,
+      "rate": 10.24,
       "prev": 10.18
     },
     {
@@ -40,7 +40,7 @@
       "producto": "CDT 360 días",
       "tipo": "cdt",
       "rate": 13.66,
-      "prev": 13.53
+      "prev": 13.66
     },
     {
       "entidad": "Banco Pichincha S.A.",
@@ -53,62 +53,71 @@
       "entidad": "Banco Mundo Mujer S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.1
+      "rate": 13.1,
+      "prev": 13.1
     },
     {
       "entidad": "BANCO CONTACTAR S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.98
+      "rate": 12.98,
+      "prev": 12.98
     },
     {
       "entidad": "Coltefinanciera",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.95
+      "rate": 12.95,
+      "prev": 12.95
     },
     {
       "entidad": "BANCO UNIÓN S.A. (en adelante el \"Banco\" o la \"Sociedad\")",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.86
+      "rate": 12.86,
+      "prev": 12.86
     },
     {
       "entidad": "Banco Santander",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.85
+      "rate": 12.85,
+      "prev": 12.85
     },
     {
       "entidad": "Banco de Occidente",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.8
+      "rate": 12.8,
+      "prev": 12.8
     },
     {
       "entidad": "BANCO CONTACTAR S.A.",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.88
+      "rate": 12.88,
+      "prev": 12.88
     },
     {
       "entidad": "\"KOA CF\"",
       "producto": "CDT 180 días",
       "tipo": "cdt",
       "rate": 12.73,
-      "prev": 12.6
+      "prev": 12.73
     },
     {
       "entidad": "Coltefinanciera",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.32
+      "rate": 12.32,
+      "prev": 12.32
     },
     {
       "entidad": "Finandina Bic o Banco Finandina Bic o Finandina.",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 11.91
+      "rate": 11.91,
+      "prev": 11.91
     },
     {
       "entidad": "Banco AV Villas",
