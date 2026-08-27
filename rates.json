@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "updated": "2026-08-24",
+  "version": 17,
+  "updated": "2026-08-27",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -33,84 +33,85 @@
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
       "rate": 10.21,
-      "prev": 10.19
+      "prev": 10.21
     },
     {
       "entidad": "Banco Pichincha S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.5,
+      "rate": 13.46,
       "prev": 13.5
     },
     {
-      "entidad": "\"KOA CF\"",
+      "entidad": "BANCO CONTACTAR S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.01,
-      "prev": 12.95
-    },
-    {
-      "entidad": "Crezcamos",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.96
-    },
-    {
-      "entidad": "Mibanco S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.9
+      "rate": 13.06
     },
     {
       "entidad": "IRIS CF.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.87,
+      "rate": 13.02,
       "prev": 12.87
+    },
+    {
+      "entidad": "\"KOA CF\"",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.94,
+      "prev": 13.01
     },
     {
       "entidad": "Banco Credifinanciera S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.83
-    },
-    {
-      "entidad": "Bancamía S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.65
+      "rate": 12.84,
+      "prev": 12.83
     },
     {
       "entidad": "La Hipotecaria",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.64,
-      "prev": 12.84
+      "rate": 12.8,
+      "prev": 12.64
+    },
+    {
+      "entidad": "Banco Falabella S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.8
+    },
+    {
+      "entidad": "Coltefinanciera",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.78
     },
     {
       "entidad": "BANCO CONTACTAR S.A.",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.42,
-      "prev": 12.27
+      "rate": 12.49,
+      "prev": 12.42
     },
     {
-      "entidad": "Crezcamos",
+      "entidad": "Credifamilia",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.06
+      "rate": 12.15
     },
     {
-      "entidad": "\"KOA CF\"",
+      "entidad": "Mibanco S.A.",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.05
+      "rate": 12.12
     },
     {
-      "entidad": "Banco GNB Sudameris",
+      "entidad": "Banco Falabella S.A.",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.02
+      "rate": 12.11
     },
     {
       "entidad": "Banco AV Villas",
