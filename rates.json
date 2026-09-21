@@ -1,6 +1,6 @@
 {
-  "version": 22,
-  "updated": "2026-09-17",
+  "version": 23,
+  "updated": "2026-09-21",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -32,80 +32,20 @@
       "entidad": "DTF",
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
-      "rate": 10.22,
+      "rate": 10.26,
       "prev": 10.22
     },
     {
-      "entidad": "Banco Pichincha S.A.",
+      "entidad": "Cotrafa",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.5
+      "rate": 9.78
     },
     {
-      "entidad": "Banco Mundo Mujer S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.03
-    },
-    {
-      "entidad": "\"KOA CF\"",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.98
-    },
-    {
-      "entidad": "Banco Credifinanciera S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.97
-    },
-    {
-      "entidad": "Bancolombia",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.89
-    },
-    {
-      "entidad": "Banco W S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.85
-    },
-    {
-      "entidad": "IRIS CF.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.75
-    },
-    {
-      "entidad": "Coltefinanciera",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.7
-    },
-    {
-      "entidad": "BANCO CONTACTAR S.A.",
+      "entidad": "Cotrafa",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.51
-    },
-    {
-      "entidad": "Crezcamos",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.47
-    },
-    {
-      "entidad": "Credifamilia",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.21
-    },
-    {
-      "entidad": "Banco de Occidente",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.19
+      "rate": 7.95
     },
     {
       "entidad": "Banco AV Villas",
