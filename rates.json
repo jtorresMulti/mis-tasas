@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "updated": "2026-09-21",
+  "version": 24,
+  "updated": "2026-09-24",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -33,19 +33,79 @@
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
       "rate": 10.26,
-      "prev": 10.22
+      "prev": 10.26
     },
     {
-      "entidad": "Cotrafa",
+      "entidad": "Banco Pichincha S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 9.78
+      "rate": 13.5
     },
     {
-      "entidad": "Cotrafa",
+      "entidad": "Banco Credifinanciera S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.06
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.95
+    },
+    {
+      "entidad": "\"KOA CF\"",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.94
+    },
+    {
+      "entidad": "Banco de Bogotá S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.88
+    },
+    {
+      "entidad": "Banco W S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.83
+    },
+    {
+      "entidad": "La Hipotecaria",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.8
+    },
+    {
+      "entidad": "BANCO UNIÓN S.A. (en adelante el \"Banco\" o la \"Sociedad\")",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.78
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 7.95
+      "rate": 12.95
+    },
+    {
+      "entidad": "La Hipotecaria",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.35
+    },
+    {
+      "entidad": "Mibanco S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.18
+    },
+    {
+      "entidad": "\"KOA CF\"",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.04
     },
     {
       "entidad": "Banco AV Villas",
