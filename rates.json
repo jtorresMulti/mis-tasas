@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "updated": "2026-09-28",
+  "version": 26,
+  "updated": "2026-10-01",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -11,21 +11,21 @@
       "entidad": "Usura · consumo y ordinario",
       "producto": "Tope legal (1,5 × IBC)",
       "tipo": "referencia",
-      "rate": 29.24,
+      "rate": 28.59,
       "prev": 29.24
     },
     {
       "entidad": "Interés bancario corriente (IBC)",
       "producto": "Consumo y ordinario",
       "tipo": "referencia",
-      "rate": 19.49,
+      "rate": 19.06,
       "prev": 19.49
     },
     {
       "entidad": "Banco de la República",
       "producto": "Tasa de intervención (política)",
       "tipo": "referencia",
-      "rate": 12,
+      "rate": 12.25,
       "prev": 12
     },
     {
@@ -33,31 +33,79 @@
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
       "rate": 10.38,
-      "prev": 10.26
+      "prev": 10.38
     },
     {
-      "entidad": "Cooperativa Financiera JFK",
+      "entidad": "Banco Pichincha S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 10
+      "rate": 13.49
     },
     {
-      "entidad": "Cotrafa",
+      "entidad": "BANCO CONTACTAR S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 9.57
+      "rate": 13.09
     },
     {
-      "entidad": "Cooperativa Financiera JFK",
-      "producto": "CDT 180 días",
+      "entidad": "\"KOA CF\"",
+      "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 9.75
+      "rate": 13
     },
     {
-      "entidad": "Cotrafa",
+      "entidad": "IRIS CF.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.97
+    },
+    {
+      "entidad": "Banco Credifinanciera S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.92
+    },
+    {
+      "entidad": "Mibanco S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.81
+    },
+    {
+      "entidad": "Banco W S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.8
+    },
+    {
+      "entidad": "Tuya",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.68
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 8
+      "rate": 12.43
+    },
+    {
+      "entidad": "Tuya",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.38
+    },
+    {
+      "entidad": "Crezcamos",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.28
+    },
+    {
+      "entidad": "Credifamilia",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.21
     },
     {
       "entidad": "Banco AV Villas",
