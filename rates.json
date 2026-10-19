@@ -1,6 +1,6 @@
 {
-  "version": 30,
-  "updated": "2026-10-15",
+  "version": 31,
+  "updated": "2026-10-19",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -32,88 +32,32 @@
       "entidad": "DTF",
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
-      "rate": 10.39,
+      "rate": 10.44,
       "prev": 10.39
     },
     {
-      "entidad": "Banco Pichincha S.A.",
+      "entidad": "Cotrafa",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.44,
-      "prev": 13.38
+      "rate": 9.51
     },
     {
-      "entidad": "Banco W S.A.",
+      "entidad": "Cooperativa Financiera JFK",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.01,
-      "prev": 12.94
+      "rate": 9.49
     },
     {
-      "entidad": "Tuya",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.01,
-      "prev": 13.04
-    },
-    {
-      "entidad": "Crezcamos",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.94
-    },
-    {
-      "entidad": "Banco de Bogotá S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.94
-    },
-    {
-      "entidad": "\"KOA CF\"",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.82
-    },
-    {
-      "entidad": "IRIS CF.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.81,
-      "prev": 12.9
-    },
-    {
-      "entidad": "Banco Credifinanciera S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.79,
-      "prev": 12.81
-    },
-    {
-      "entidad": "La Hipotecaria",
+      "entidad": "Cooperativa Financiera JFK",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.75,
-      "prev": 12.5
+      "rate": 9.17
     },
     {
-      "entidad": "BANCO CONTACTAR S.A.",
+      "entidad": "Cotrafa",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.69,
-      "prev": 12.53
-    },
-    {
-      "entidad": "Tuya",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.51,
-      "prev": 12.52
-    },
-    {
-      "entidad": "Banco Colpatria",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.49
+      "rate": 7.9
     },
     {
       "entidad": "Banco AV Villas",
