@@ -35,7 +35,7 @@ De ahí en adelante, el robot corre **lunes y jueves** (y cuando lo ejecutes a m
 archivo; la app muestra los cambios como **anterior → nueva**.
 
 ## Correrlo en tu PC (opcional)
-Con **Node 18+**: `node build-rates.mjs` (genera/actualiza `rates.json`).
+Con **Node 22.23.4**, con la corrección de CVE-2026-111497: `node build-rates.mjs` (genera/actualiza `rates.json`).
 
 ## Cambiar cada cuánto corre
 Edita el `cron` en `.github/workflows/update-rates.yml` (formato UTC).
