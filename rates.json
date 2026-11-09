@@ -1,6 +1,6 @@
 {
-  "version": 36,
-  "updated": "2026-11-05",
+  "version": 37,
+  "updated": "2026-11-09",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -32,80 +32,32 @@
       "entidad": "DTF",
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
-      "rate": 10.7,
+      "rate": 10.79,
       "prev": 10.7
     },
     {
-      "entidad": "Banco Pichincha S.A.",
+      "entidad": "Cooperativa Financiera JFK",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.4
+      "rate": 11.66
     },
     {
-      "entidad": "Banco W S.A.",
+      "entidad": "Cooperativa Financiera de Antioquia",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.17
+      "rate": 10.01
     },
     {
-      "entidad": "\"KOA CF\"",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.17
-    },
-    {
-      "entidad": "Credifamilia",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.13
-    },
-    {
-      "entidad": "BANCO CONTACTAR S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.08
-    },
-    {
-      "entidad": "Tuya",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.07
-    },
-    {
-      "entidad": "Itaú; Banco Itaú.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.83
-    },
-    {
-      "entidad": "Banco de Occidente",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 12.79
-    },
-    {
-      "entidad": "PLATA. S.A. COMPAÑÍA DE FINANCIAMIENTO",
+      "entidad": "Cooperativa Financiera JFK",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 13
+      "rate": 10.02
     },
     {
-      "entidad": "BANCO CONTACTAR S.A.",
+      "entidad": "Cooperativa Financiera de Antioquia",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.53
-    },
-    {
-      "entidad": "La Hipotecaria",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.5
-    },
-    {
-      "entidad": "Banco W S.A.",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.4
+      "rate": 9.28
     },
     {
       "entidad": "Banco AV Villas",
