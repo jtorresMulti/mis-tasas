@@ -1,6 +1,6 @@
 {
-  "version": 37,
-  "updated": "2026-11-09",
+  "version": 38,
+  "updated": "2026-11-12",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -33,31 +33,79 @@
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
       "rate": 10.79,
-      "prev": 10.7
+      "prev": 10.79
     },
     {
-      "entidad": "Cooperativa Financiera JFK",
+      "entidad": "\"KOA CF\"",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 11.66
+      "rate": 13.29
     },
     {
-      "entidad": "Cooperativa Financiera de Antioquia",
+      "entidad": "Banco W S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 10.01
+      "rate": 13.19
     },
     {
-      "entidad": "Cooperativa Financiera JFK",
-      "producto": "CDT 180 días",
+      "entidad": "Credifamilia",
+      "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 10.02
+      "rate": 13.14
     },
     {
-      "entidad": "Cooperativa Financiera de Antioquia",
+      "entidad": "Banco Pichincha S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.12
+    },
+    {
+      "entidad": "Tuya",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.1
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.06
+    },
+    {
+      "entidad": "Banco Santander",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.04
+    },
+    {
+      "entidad": "Banco Credifinanciera S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.02
+    },
+    {
+      "entidad": "PLATA. S.A. COMPAÑÍA DE FINANCIAMIENTO",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 9.28
+      "rate": 13
+    },
+    {
+      "entidad": "Mibanco S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.68
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.61
+    },
+    {
+      "entidad": "Tuya",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.53
     },
     {
       "entidad": "Banco AV Villas",
