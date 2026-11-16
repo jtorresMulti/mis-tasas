@@ -1,6 +1,6 @@
 {
-  "version": 38,
-  "updated": "2026-11-12",
+  "version": 39,
+  "updated": "2026-11-16",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -36,76 +36,41 @@
       "prev": 10.79
     },
     {
-      "entidad": "\"KOA CF\"",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.29
-    },
-    {
-      "entidad": "Banco W S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.19
-    },
-    {
       "entidad": "Credifamilia",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.14
+      "rate": 13.16,
+      "prev": 13.14
     },
     {
-      "entidad": "Banco Pichincha S.A.",
+      "entidad": "Cooperativa Financiera JFK",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.12
+      "rate": 12.14
     },
     {
-      "entidad": "Tuya",
+      "entidad": "Cotrafa",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.1
+      "rate": 10.05
     },
     {
-      "entidad": "BANCO CONTACTAR S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.06
-    },
-    {
-      "entidad": "Banco Santander",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.04
-    },
-    {
-      "entidad": "Banco Credifinanciera S.A.",
-      "producto": "CDT 360 días",
-      "tipo": "cdt",
-      "rate": 13.02
-    },
-    {
-      "entidad": "PLATA. S.A. COMPAÑÍA DE FINANCIAMIENTO",
+      "entidad": "Credifamilia",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 13
+      "rate": 12.12
     },
     {
-      "entidad": "Mibanco S.A.",
+      "entidad": "Cooperativa Financiera JFK",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.68
+      "rate": 11.24
     },
     {
-      "entidad": "BANCO CONTACTAR S.A.",
+      "entidad": "Cotrafa",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 12.61
-    },
-    {
-      "entidad": "Tuya",
-      "producto": "CDT 180 días",
-      "tipo": "cdt",
-      "rate": 12.53
+      "rate": 7.96
     },
     {
       "entidad": "Banco AV Villas",
