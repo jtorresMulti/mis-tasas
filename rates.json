@@ -1,6 +1,6 @@
 {
-  "version": 39,
-  "updated": "2026-11-16",
+  "version": 40,
+  "updated": "2026-11-19",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -32,45 +32,81 @@
       "entidad": "DTF",
       "producto": "CDT 90 días (promedio sistema)",
       "tipo": "referencia",
-      "rate": 10.79,
+      "rate": 10.76,
       "prev": 10.79
     },
     {
+      "entidad": "\"KOA CF\"",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.3
+    },
+    {
       "entidad": "Credifamilia",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 13.16,
-      "prev": 13.14
+      "rate": 13.17,
+      "prev": 13.16
     },
     {
-      "entidad": "Cooperativa Financiera JFK",
+      "entidad": "Banco W S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.14
+      "rate": 13.13
     },
     {
-      "entidad": "Cotrafa",
+      "entidad": "Lulo Bank S.A.",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 10.05
+      "rate": 13
     },
     {
-      "entidad": "Credifamilia",
-      "producto": "CDT 180 días",
+      "entidad": "Mibanco S.A.",
+      "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 12.12
+      "rate": 12.99
     },
     {
-      "entidad": "Cooperativa Financiera JFK",
-      "producto": "CDT 180 días",
+      "entidad": "Tuya",
+      "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 11.24
+      "rate": 12.98
     },
     {
-      "entidad": "Cotrafa",
+      "entidad": "Banco Pichincha S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.97
+    },
+    {
+      "entidad": "Banco Credifinanciera S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 12.96
+    },
+    {
+      "entidad": "PLATA, PLATA CF.",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 7.96
+      "rate": 13
+    },
+    {
+      "entidad": "Tuya",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.56
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.53
+    },
+    {
+      "entidad": "La Hipotecaria",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.5
     },
     {
       "entidad": "Banco AV Villas",
