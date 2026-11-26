@@ -1,6 +1,6 @@
 {
-  "version": 41,
-  "updated": "2026-11-23",
+  "version": 42,
+  "updated": "2026-11-26",
   "fuentes": [
     "Superfinanciera (datos.gov.co)",
     "Banco de la República (SDMX)",
@@ -22,42 +22,76 @@
       "prev": 18.89
     },
     {
-      "entidad": "Banco de la República",
-      "producto": "Tasa de intervención (política)",
-      "tipo": "referencia",
-      "rate": 12.25,
-      "prev": 12.25
-    },
-    {
-      "entidad": "DTF",
-      "producto": "CDT 90 días (promedio sistema)",
-      "tipo": "referencia",
-      "rate": 10.73,
-      "prev": 10.76
-    },
-    {
-      "entidad": "Cooperativa Financiera JFK",
+      "entidad": "La Hipotecaria",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 11.6
+      "rate": 13.3
     },
     {
-      "entidad": "Cooperativa Financiera de Antioquia",
+      "entidad": "\"KOA CF\"",
       "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 9.42
+      "rate": 13.29
     },
     {
-      "entidad": "Cooperativa Financiera JFK",
-      "producto": "CDT 180 días",
+      "entidad": "Credifamilia",
+      "producto": "CDT 360 días",
       "tipo": "cdt",
-      "rate": 10.73
+      "rate": 13.2
     },
     {
-      "entidad": "Cooperativa Financiera de Antioquia",
+      "entidad": "Findeter",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.13
+    },
+    {
+      "entidad": "Banco W S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.12
+    },
+    {
+      "entidad": "Financiera Juriscoop C.F.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.11
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.1
+    },
+    {
+      "entidad": "Bancamía S.A.",
+      "producto": "CDT 360 días",
+      "tipo": "cdt",
+      "rate": 13.03
+    },
+    {
+      "entidad": "PLATA, PLATA CF.",
       "producto": "CDT 180 días",
       "tipo": "cdt",
-      "rate": 10.6
+      "rate": 13
+    },
+    {
+      "entidad": "Banco Serfinanza S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.77
+    },
+    {
+      "entidad": "BANCO CONTACTAR S.A.",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.73
+    },
+    {
+      "entidad": "Tuya",
+      "producto": "CDT 180 días",
+      "tipo": "cdt",
+      "rate": 12.68
     },
     {
       "entidad": "Banco AV Villas",
